@@ -1,16 +1,16 @@
 <!-- ![Imagen decorativa de tu perfil](https://github.com/DorianDesings/readme-demos/blob/main/profile-image.jpeg)-->
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
+<h1 align="center">Hola 👋, Soy Tatiana</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+<!-- - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO) -->
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- 🌱 Estoy aprendiendo **React** y **CSS**
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
+<!-- - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM) -->
 
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
+- 📫 PUEDES CONTACTARME EN **tatiana9000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
